@@ -1,5 +1,7 @@
 # CaesarCipherBelarusianLanguage (CCBL)
 
+## Перакладчык шыфра Цэзара для беларуская мова
+
 ## Для працы ўтыліты патрабуецца:
 * `Python`
 
